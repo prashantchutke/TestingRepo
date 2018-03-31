@@ -1,6 +1,9 @@
-
+package scala.MyFirst
 
 object MyFirstScalaApp extends App {
-  System.out.println("Hello Ajinkya")
-  System.out.println("Hello Prashant")
-}
+     object Main{
+       def main(args:Array[String]) = {
+         System.out.println("Hello Adonis")
+     }
+   }
+ }
